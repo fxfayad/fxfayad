@@ -1,4 +1,4 @@
-### Hi there 👋, Hi, Iam Fayad
+###  Hi, Iam Fayad
 #### Coding is like math.
 
 Skills: C/ C+/ HTML / CSS
