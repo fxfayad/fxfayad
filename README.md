@@ -1,5 +1,5 @@
 ###  Hi, Iam Fayad
-#### Coding is like math.
+#### I like to make things that make a difference.
 
 Skills: C/ C+/ HTML / CSS
 
