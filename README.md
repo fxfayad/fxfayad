@@ -10,6 +10,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, and my u
 ## Skills 
 ✅ c <br> 
 ✅ c++ <br>
+✅ Python <br>
 ✅ HTML5 / CSS3  <br>
 ✅ Photoshop / Illustrator <br>
 
