@@ -1,7 +1,7 @@
 ###  Hi, Iam Fayad
 ####  Love to write code
 
-As a software engineer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.
+As a Computer science student, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.
 
 ##
 - 🌱 I’m currently learning Backend Development 
