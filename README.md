@@ -9,10 +9,10 @@ As a Computer science student, I enjoy using my obsessive attention to detail, a
 - 📫 How to reach me: fxfayad@gmail.com 
 ## Skills 
 ✅ c <br> 
-✅ c++ <br>
 ✅ Python <br>
-✅ HTML5 / CSS3  <br>
-✅ Photoshop / Illustrator <br>
+✅ HTML5 / CSS  <br>
+
+
 
 ## ☕ Connect with me!
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fxfayad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/fxfayadhossain/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/fx.fayad/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/fayad-hossain-247435318/)  
